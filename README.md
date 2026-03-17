@@ -2,7 +2,7 @@
 
 <h1> ⋆ 𐙚 Hey! I'm Tajalli Us Samad ⋆ </h1>
 
-<h3>🎓 Engineering Undergrad (2nd Year) | 💻 Learning DSA | 🎨 Exploring UI/UX</h3>
+<h3> Engineering Undergrad (2nd Year) | Learning DSA | Exploring UI/UX</h3>
 
 <p align="center">
   <img src="avatar-removebg-preview.png" width="180" style="border-radius:50%">
@@ -10,7 +10,7 @@
 
 </div>
 
-## 🌱 What I'm Currently Learning
+## ✦ What I'm Currently Learning
 
 -  **Data Structures & Algorithms**
 -  **UI / UX Design**
@@ -19,7 +19,7 @@
 
 ---
 
-## 💻 **Tech Stack**
+## ✦ **Tech Stack**
 
 **Languages**
 <p>
@@ -56,43 +56,52 @@
   <!-- ADD MORE: kubernetes, aws, gcp, jenkins, etc. -->
 </p>
 
-## 👩🏻‍💻 Featured Projects
+## ✦ Featured Projects
 
-### 🚀 eConsultAI
+### eConsultAI
 
 Link : https://sentiment-analysis--sih.vercel.app/
 - Built an NLP model to classify sentiment in text data
 - 🏆 Won **Internal Smart India Hackathon (SIH)** at ABES ENGINEERING COLLEGE
 - Implemented using Python and machine learning techniques
 
-### 🤖 MedBot
+### MedBot
 
 Link : https://huggingface.co/spaces/Krapter12/CHATBOT
 - AI chatbot made to help medical pofessionals/students (deployed on **Hugging Face Spaces**)
 - Built using Python and NLP tools
 ---
 
-### 📫 **Email**: qrstajalli@gmail.com 
+### ✦ Connect With Me
 
----
-
-### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tajalli-us-samad//" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="35" />
+  <a href="https://www.linkedin.com/in/tajalli-us-samad/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    height="40"
+    width="40"
+    style="background-color:#0A66C2; padding:10px; border-radius:8px;" />
+  </a>
+
+  <a href="mailto:grstajalli@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    height="40"
+    width="40"
+    style="background-color:#EA4335; padding:10px; border-radius:8px;" />
   </a>
 </p>
 
+
 ---
 
-### 🌿 A Little About Me
-- 🎮 When I'm not coding, I'm probably reading a book, painting or playing chess (we don't talk about the doomscrolling)
-- 💻 Turning ideas into **code and clean UI designs**
-- 🎵 Currently vibing to: **My Old Ways - Tame Impala**
-- ☕ Coffee enthusiast operating at Lorelai Gilmore levels of caffeine.
+### ✦  A Little About Me
+
+- I enjoy exploring the intersection of **software development and UI/UX design**, turning ideas into functional and thoughtful digital experiences.
+- Outside of coding, I spend time **reading, painting, or playing chess**.
+- Currently listening to **"My Old Ways" — Tame Impala**.
+- Coffee enthusiast operating at Lorelai Gilmore levels of caffeine
 
 ---
 
 <div align="center">
   
-# 📈 Designing interfaces, building ideas, and learning something new everyday! 🚀
+# Designing interfaces, building ideas, and learning something new everyday! 🚀
