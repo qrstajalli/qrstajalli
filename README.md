@@ -44,8 +44,8 @@
 <p>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" title="Figma"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" title="Adobe Illustrator"/>
-  <img src="https://cdn.simpleicons.org/framer/black" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/framer/black" width="45" height="45"/>
 </p>
 
 **Developer Tools**
@@ -78,9 +78,12 @@ Link : https://huggingface.co/spaces/Krapter12/CHATBOT
 - Coordinator at <b>Google Developer Groups (GDG) on Campus ABESEC</b> 
 
 <p align="left">
-  <img src="download.png" height="90" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="gssoc.jpeg" height="90" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="gssoclogo.png" height="90" style="vertical-align: middle; margin-right: 15px;" />
   <img src="download (1).png" height="90" style="vertical-align: middle;" />
 </p>
+
+---
 
 ### ✦ Connect With Me
 
