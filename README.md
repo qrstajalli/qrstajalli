@@ -72,6 +72,16 @@ Link : https://huggingface.co/spaces/Krapter12/CHATBOT
 - Built using Python and NLP tools
 ---
 
+## ✦ Community & Experience
+
+- Open Source Contributor at <b>GirlScript Summer of Code (GSSoC) '26</b>
+- Coordinator at <b>Google Developer Groups (GDG) on Campus ABESEC</b> 
+
+<p align="left">
+  <img src="download.png" height="90" style="vertical-align: middle; margin-right: 15px;" />
+  <img src="download (1).png" height="90" style="vertical-align: middle;" />
+</p>
+
 ### ✦ Connect With Me
 
 <p align="left">
