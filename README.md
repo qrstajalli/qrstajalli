@@ -21,40 +21,26 @@
 
 ## ✦ **Tech Stack**
 
-**Languages**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/><!-- ADD MORE: cpp, csharp, go, rust, etc. -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="35"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="35"/>
+<img src="https://cdn.simpleicons.org/framer/black" width="35"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="35" title="Git"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="35" title="VS Code"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="35" title="GitHub"/>
 </p>
 
-**Frontend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" height="45" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="45" height="45" title="Next.js"/>
-  <!-- ADD MORE: vue, angular, svelte, etc. -->
-</p>
 
-
-**Design & Prototyping**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" title="Figma"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45" height="45" title="Adobe Illustrator"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/framer/black" width="45" height="45"/>
-</p>
-
-**Developer Tools**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" height="45" title="GitHub"/>
-  <!-- ADD MORE: kubernetes, aws, gcp, jenkins, etc. -->
-</p>
 
 ## ✦ Featured Projects
 
@@ -106,14 +92,6 @@ Link : https://huggingface.co/spaces/Krapter12/CHATBOT
 
 ---
 
-### ✦  A Little About Me
-
-- I enjoy exploring the intersection of **software development and UI/UX design**, turning ideas into functional and thoughtful digital experiences.
-- Outside of coding, I spend time **reading, painting, or playing chess**.
-- Currently listening to **"My Old Ways" — Tame Impala**.
-- Coffee enthusiast operating at Lorelai Gilmore levels of caffeine
-
----
 
 <div align="center">
   
