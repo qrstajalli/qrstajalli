@@ -29,7 +29,8 @@ Backend-focused full-stack developer building MERN applications, solving DSA in 
 
 ## Projects
 
-#### eConsultAI
+#### [eConsultAI](https://sentiment-analysis--sih.vercel.app/)
+
 
 NLP-based sentiment analysis application built using Python and machine learning techniques.
 
