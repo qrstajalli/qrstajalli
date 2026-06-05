@@ -44,14 +44,5 @@ AI chatbot project built for medical assistance and educational support.
 * Deployed on Hugging Face Spaces
 
 ---
-## Currently
-
-* Pursuing B.Tech in Computer Engineering
-* Solving DSA in C++
-* Building backend-focused MERN projects
-* Contributing to open source
-
-
----
 
 [LinkedIn](https://www.linkedin.com/in/tajalli-us-samad/) • [Email](qrstajalli@gmail.com)
