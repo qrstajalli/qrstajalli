@@ -1,6 +1,6 @@
 # hey, i'm tajalli ⟡
 
-full-stack developer building MERN applications, solving DSA in C++, and contributing to open source through GSSoC.
+backend-focused engineer with an interest in product design, scalable systems, and open-source contributions.
 
 ## Tech Stack
 <p>
