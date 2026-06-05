@@ -1,4 +1,4 @@
-# Tajalli Us Samad
+# hey, i'm tajalli ⟡
 
 Backend-focused full-stack developer building MERN applications, solving DSA in C++, and contributing to open source through GSSoC.
 
