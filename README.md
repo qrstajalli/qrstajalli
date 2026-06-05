@@ -55,4 +55,4 @@ AI chatbot project built for medical assistance and educational support.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/tajalli-us-samad/) • [Portfolio](https://github.com/qrstajalli) • [Email](qrstajalli@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tajalli-us-samad/) • [Email](qrstajalli@gmail.com)
