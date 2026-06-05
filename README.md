@@ -2,7 +2,7 @@
 
 Backend-focused full-stack developer building MERN applications, solving DSA in C++, and contributing to open source through GSSoC.
 
-## Stack
+## Tech Stack
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
 <img src="https://skillicons.dev/icons?i=express" width="35"/>
