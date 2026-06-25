@@ -36,12 +36,10 @@ NLP-based sentiment analysis application built using Python and machine learning
 * Winner — Internal Smart India Hackathon (SIH) at ABES Engineering College
 * Built for sentiment classification on textual data
 
-#### MedBot
-
-AI chatbot project built for medical assistance and educational support.
-
-* Built using Python and NLP tools
-* Deployed on Hugging Face Spaces
+#### [BranchOut](https://branch-out-theta.vercel.app/) 
+* A pixel-art GitHub garden that visualizes a developer's contribution history as a growing ecosystem.
+* Cozy pixel game inspired UI
+* Built with React, Vite, GitHub APIs, and procedural garden generation to transform commits into flowers and ranks.
 
 ---
 
