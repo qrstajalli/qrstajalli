@@ -1,6 +1,6 @@
 # hey, i'm tajalli ⟡
 
-backend-focused engineer with an interest in product design, scalable systems, and open-source contributions.
+engineering undergrad with an interest in software developement, product design, scalable systems, and open-source contributions.
 
 ## Tech Stack
 <p>
