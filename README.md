@@ -28,18 +28,17 @@ engineering undergrad with an interest in software developement, product design,
 
 ## Projects
 
+#### [BranchOut](https://branch-out-theta.vercel.app/) 
+* A pixel-art GitHub garden that visualizes a developer's contribution history as a growing ecosystem.
+* Cozy pixel game inspired UI.
+* Built with React, Vite, GitHub APIs, and procedural garden generation to transform commits into flowers and ranks.
+
 #### [eConsultAI](https://sentiment-analysis--sih.vercel.app/)
-
-
 NLP-based sentiment analysis application built using Python and machine learning techniques.
 
 * Winner — Internal Smart India Hackathon (SIH) at ABES Engineering College
 * Built for sentiment classification on textual data
 
-#### [BranchOut](https://branch-out-theta.vercel.app/) 
-* A pixel-art GitHub garden that visualizes a developer's contribution history as a growing ecosystem.
-* Cozy pixel game inspired UI
-* Built with React, Vite, GitHub APIs, and procedural garden generation to transform commits into flowers and ranks.
 
 ---
 
